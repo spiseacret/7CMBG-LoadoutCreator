@@ -12,7 +12,9 @@ Pathway is the standard work tracker for 7CMBG work across repositories, agents,
 - Cross-repository work may share a clearly identified coordination card, with every participating repo/PR linked. Independent tasks use separate cards on the appropriate board. Do not create redundant GitHub issues solely to mirror cards.
 - Frontend board: https://pathway.lazycub.studio/b/7cmbg-frontend
 - HQ board: https://pathway.lazycub.studio/b/7cmbg-hq
+- Discord bot board: https://pathway.lazycub.studio/b/7cmbg-discord-bot (generated prefix CB). Bot-only work uses this board; cross-repository CF-48 remains this rollout's coordination card.
 - Discover other board mappings from live project context; do not invent a board or silently place unrelated bot work on the frontend board.
 - Follow established board status conventions. Otherwise use To do before work; In Progress for implementation/draft review; Testing for validation; Done after acceptance; Released only after verified deployment. Record merge/deploy state separately.
 - Include card code/URL, related PR/issue links, validation, and next action in handoffs and checkpoints so another chat can resume. If Pathway is unavailable, report the tracking gap and continue independent authorized work without fabricating a card or code.
 - Tracking and naming do not expand task scope or authorize merging, deployment, production changes, unrelated messages, or access to restricted repositories. Preserve repository branch targets and approval boundaries.
+
